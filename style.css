@@ -36,7 +36,7 @@ body{
 }
 /* estilo do cabeçalho */
 header{
-    padding: 20px 4%;
+    padding: 15px 3%;
 }
 
 header > .interface{
@@ -92,7 +92,7 @@ section.topo-do-site.flex{
 
 .topo-do-site .txt-topo-do-site p{
     color: azure;
-    margin: 40px 0;
+    margin: 20px 0;
 }
 
 .sobremim{
@@ -124,7 +124,7 @@ font-size: 20px;
   }
 
   body {
-    background-image: linear-gradient(to bottom, #f1bce6, #d6bbc4);
+    background-image: linear-gradient(to bottom, #f1bce6, #cb9fae);
 }
 
 h1 {
