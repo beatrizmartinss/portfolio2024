@@ -199,4 +199,51 @@ a{
     display: inline-block;
 }
 
+.atividade{
+    position: relative;
+    width: 70%; 
+    height: 150px; 
+    padding-top: 40%;
+    padding-bottom: 0; 
+    box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); 
+    margin-top: 1.6em;
+    margin-bottom: 0.9em; 
+    overflow: hidden;
+    border-radius: 8px;
+    will-change: transform;
+}
+
+img.atividade-linguagem{
+    transform: translate(100px, 20px) rotate(-90deg);
+    width: 30%;
+    border-radius: 20px;
+}  
+
+.legenda-atividade{
+    margin-top: -2em;
+    margin-left: 3em;
+    font-size: medium;
+}
+
+img.atividade-natureza{
+    /* transform: translate(100px, 20px) rotate(-90deg); */
+    margin-top: 6em;
+    margin-left: 3em;
+    width: 40%;
+    border-radius: 20px;
+} 
+
+img.atividade-natureza-2{
+    margin-top: 6em;
+    margin-left: 3em;
+    width: 35%;
+    height: 30%;
+    border-radius: 20px;
+} 
+
+.legenda-atividade-2{
+    margin-top: 0.5em;
+    margin-left: 3em;
+    font-size: medium;
+}
 
